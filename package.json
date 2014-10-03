@@ -2,6 +2,7 @@
   "name": "grub_blockchain",
   "main": "grub_blockchain.js",
   "devDependencies": {
-    "jsdom": ""
+    "jsdom": "",
+    "request": ""
   }
 }
